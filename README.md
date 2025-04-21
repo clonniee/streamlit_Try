@@ -4,7 +4,7 @@ To try any files ending with '.py' install its dependencies as streamlit and uv(
 
 For UV, check you have pipx installed or not or install it 
 ```bash
-pipx install ux
+pipx install uv
 ```
 
 ### Download dependencies :
